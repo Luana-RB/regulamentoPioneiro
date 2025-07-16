@@ -135,9 +135,9 @@ d) Encaminhar as votações;
 e) Redigir e assinar a ata do Fórum;
 f) Divulgar a Ata, as conclusões do Fórum, bem como o Regulamento do Ramo Pioneiro modificado, quando houver, junto aos órgãos competentes do Escritório Regional no prazo máximo de até duas (02) semanas, a contar o encerramento do fórum. 
 Seção IV – Do encaminhamento dos Temas, dos Grupos de Debates e das Seções Plenárias 
-Art. 29 - As propostas de alterações do Regulamento Regional do Ramo Pioneiro deverão ser enviadas à Equipe Regional Pioneira com no mínimo quatorze (14) dias de antecedência à realização do Fórum Regional Pioneiro.
+Art. 29 - As propostas de alterações do Regulamento Regional do Ramo Pioneiro deverão ser enviadas à Equipe Regional Pioneira com no mínimo quatorze (14) dias de antecedência à realização do Fórum Regional Pioneiro. 
 Art. 30 - O tema a ser discutido no Fórum Regional será decidido no Fórum anterior. 
-Art. 31 - Os encaminhamentos de estudo e discussão de temas para o Fórum posterior serão agrupados por assuntos correlatos.O sistema adotado para encaminhamento do estudo e da discussão dos temas para o Fórum posterior será por agrupamento dos assuntos correlatos. 
+Art. 31 - Os encaminhamentos de estudo e discussão de temas para o Fórum posterior serão agrupados por assuntos correlatos.
 Art. 32 - Conforme a necessidade, será competência da Plenária decidir se os temas apresentados serão discutidos em grupos de debate. 
 § 1º - Se a análise dos temas for feita em grupos de debates, os delegados e os membros natos do Fórum que irão compor o grupo serão reunidos pela Mesa Diretora, através de sorteio. 
 § 2º - Os grupos de debate apresentarão as conclusões em plenária através de um relator para tal fim designado, dentre os integrantes de cada grupo. 
@@ -145,10 +145,10 @@ Art. 33 - Em caso de empate na votação sobre mudanças no Regulamento, deverã
 Seção V - Das Responsabilidades da Plenária 
 Art. 34 - A Plenária é o órgão máximo e soberano do evento, tendo a competência de discutir as propostas apresentadas, sugerindo soluções.
 Art. 35 - São de responsabilidade e competência da Plenária:
-Aprovar a ata do Fórum Regional Pioneiro anterior;
-Eleger as cidades-sedes dos eventos regionais pioneiros do próximo ano;
-Eleger a Equipe Regional Pioneira;
-Deliberar sobre alterações no Regulamento Regional do Ramo Pioneiro.
+a) Aprovar a ata do Fórum Regional Pioneiro anterior;
+b) Eleger as cidades-sedes dos eventos regionais pioneiros do próximo ano;
+c) Eleger a Equipe Regional Pioneira;
+d) Deliberar sobre alterações no Regulamento Regional do Ramo Pioneiro.
 CAPÍTULO II - DO DEBATE PRELIMINAR 
 Art. 36 – Será realizado um Debate Preliminar antes de cada Fórum, a fim de iniciar-se uma reflexão sobre o tema proposto no Fórum passado e apresentar as chapas inscritas para a próxima Equipe Regional Pioneira, candidaturas de Eventos Regionais do ano seguinte e alterações de Regulamento.
 Art. 37 – Equipes de interesse e Grupos de Debate formados durante o Debate Preliminar deverão ter ao menos um representante da ERP para atuar como mediador de conflitos. 
