@@ -114,12 +114,14 @@ c) Observadores.
 Art. 24 - Cada Clã poderá apresentar por dois (02) pioneiros(as) delegados(as), acrescidos de um (01) delegado(a) para cada cinco (05) membros do Clã, registrados na UEB naquele ano. 
 Seção III – Da Organização e da Coordenação 
 
-Art. 25 - A organização do Fórum Regional Pioneiro é de responsabilidade da ERP e do(s) clã(s) organizador(es), observadas as normas e regras do Estatuto Regional, do Estatuto Nacional e do P.O.R.
+Art. 25 - A organização do Fórum Regional Pioneiro é de responsabilidade da ERP e do(s) Clã(s) organizador(es), observadas as normas e regras do Estatuto Regional, do Estatuto Nacional e do P.O.R.
 Art. 26 - A Mesa Diretora tem a seguinte composição:
 I - presidente;
 II - vice-presidente;
-III - secretário(a).
-Parágrafo único - A Presidência do Fórum é de competência do Coordenador Geral da Equipe Regional Pioneira. 
+III - secretário(a);
+IV - segundo(a) secretário(a).
+§ 1º  - A Presidência do Fórum é de competência do(a) Coordenador(a) Geral da Equipe Regional Pioneira. 
+§ 2º - A escrita da ata é de responsabilidade dos(as) secretários(as)
 Art. 27 - Poderão ser compostas, segundo necessidade, as seguintes comissões para auxílio dos trabalhos: 
 I - escrutínio; 
 II - assuntos gerais; 
