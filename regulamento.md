@@ -170,10 +170,11 @@ Art.58 - Os representantes das organizações dos eventos regionais deverão apr
 Inciso 1 - Caso o evento do representante ocorra no último trimestre do ano, sua participação durante a próxima reunião deverá ser exclusivamente para apresentação, não tendo direito a voz e voto. 
 Art.59 - A reunião que ocorre no trimestre do debate preliminar obrigatoriamente deverá ocorrer de forma híbrida, tendo a possibilidade dos Presidentes se encontrarem presencialmente com a ERP durante a reunião. 
 Inciso 1 - Caso a reunião ocorra na mesma data do Debate Preliminar ela deverá ser posterior ou anterior ao Debate, não podendo ocorrer durante o evento. 
-Art.60 - Os trimestres do ano serão divididos em primeiro trimestre de janeiro a março, segundo trimestre de abril a junho, terceiro trimestre de julho a setembro, quarto trimestre de outubro a dezembro.
-Inciso 1 - A primeira reunião do ano deverá ocorrer no mês de janeiro. 
-Inciso 2 - A última reunião do ano deverá ocorrer na primeira quinzena do mês de dezembro. Art.61 A data da reunião e suas modalidades de participação deverão ser escolhidas e divulgadas antes do trimestre se iniciar, pela ERP. 
-Art.62 - Reuniões extraordinárias deverão ser divulgadas com ao menos 15 (quinze) dias de antecedência a sua realização. 
+Art.52 - Os trimestres do ano serão divididos em primeiro trimestre de janeiro a março, segundo trimestre de abril a junho, terceiro trimestre de julho a setembro, quarto trimestre de outubro a dezembro.
+§ 1º - A primeira reunião do ano deverá ocorrer no mês de janeiro. 
+§ 2º - A última reunião do ano deverá ocorrer na primeira quinzena do mês de dezembro. 
+Art.53 A data da reunião e suas modalidades de participação deverão ser escolhidas e divulgadas antes do trimestre se iniciar, pela ERP. 
+Art.54 - Reuniões extraordinárias deverão ser divulgadas com ao menos 15 (quinze) dias de antecedência a sua realização. 
 CAPÍTULO VII - DAS OUTRAS ATIVIDADES REGIONAIS PIONEIRAS 
 Art. 63 - Poderão ocorrer outras atividades organizadas pela Equipe Regional Pioneira, tais como, passeios e acampamentos, excursões, entre outros, ficando a definição de programa, locais, duração e meios de transporte a cargo da organização. 
 TÍTULO III - DAS MEDIDAS DISCIPLINARES 
