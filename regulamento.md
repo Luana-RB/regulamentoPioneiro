@@ -174,10 +174,10 @@ CAPÍTULO VI - DA REUNIÃO DE PRESIDENTES DE COMAD COM A ERP
 Seção I – Definição 
 Art 46 - As reuniões terão como finalidade o diálogos entre a comunidade pioneira, apresentação da gestão da ERP no trimestre, solicitações e feedbacks dos Presidentes, debates e explanações necessárias no ramo, divulgação de eventos e campanhas financeiras, integração entre os representantes de clãs, e demais temas pertinentes no período.
 Art. 47 - Participam da reunião, com direito a voz e voto:
-Presidentes de COMAD de clãs da Região;
-Membros da ERP;
-Membros Natos;
-Um representante de cada equipe de organização de eventos regionais daquele ano.
+a) Presidentes de COMAD de clãs da Região;
+b) Membros da ERP;
+c) Membros Natos;
+d) Um representante de cada equipe de organização de eventos regionais daquele ano.
 Art.48 - Na reunião, a ERP deverá:
 Explanar o andamento de suas atividades no trimestre, da organização de seus eventos do ano, de seus projetos e propostas vigentes.
 Fomentar a criação de debates, equipes de interesse e soluções para os problemas vigentes no trimestre.
