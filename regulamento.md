@@ -194,14 +194,14 @@ Art. 52 - Os trimestres do ano serão divididos em: primeiro trimestre (de janei
 § 1º - A primeira reunião do ano deverá ocorrer no mês de janeiro. 
 § 2º - A última reunião do ano deverá ocorrer na primeira quinzena do mês de dezembro. 
 Art. 53 - A data da reunião e suas modalidades de participação deverão ser escolhidas e divulgadas antes do trimestre iniciar, pela ERP. 
-Art.54 - Reuniões extraordinárias deverão ser divulgadas com ao menos 15 (quinze) dias de antecedência a sua realização.
+Art. 54 - Reuniões extraordinárias deverão ser divulgadas com ao menos 15 (quinze) dias de antecedência a sua realização.
 CAPÍTULO VII - REUNIÃO TEMÁTICA DO RAMO
 Seção I – Definição 
-Art 55 - A reunião terá como finalidade o diálogos entre a comunidade pioneira, aberta exclusivamente para os jovens, para debater os principais desafios do ramo e compartilhar experiências e conhecimentos entre clãs.
-Art 56 - A reunião não possui caráter deliberativo e todos os jovens têm direito à voz.
-Art 57 - Será organizada e conduzida pela ERP, com temas propostos por qualquer jovem do ramo previamente.
+Art. 55 - A reunião terá como finalidade o diálogos entre a comunidade pioneira, aberta exclusivamente para os jovens, para debater os principais desafios do ramo e compartilhar experiências e conhecimentos entre clãs.
+Art. 56 - A reunião não possui caráter deliberativo e todos os jovens têm direito à voz.
+Art. 57 - Será organizada e conduzida pela ERP, com temas propostos por qualquer jovem do ramo previamente.
 Seção II - Duração 
-Art.58 - Deverá ocorrer 1 (uma) reunião a cada ano, durante o Congresso Regional, no mês de março.
+Art. 58 - Deverá ocorrer 1 (uma) reunião a cada ano, durante o Congresso Regional, no mês de março.
 CAPÍTULO VIII - DAS OUTRAS ATIVIDADES REGIONAIS PIONEIRAS 
 Art. 59 - Poderão ocorrer outras atividades organizadas pela Equipe Regional Pioneira, tais como, passeios, acampamentos, excursões, entre outros, ficando a definição de programa, locais, duração e meios de transporte a cargo da organização.
 TÍTULO III - DAS MEDIDAS DISCIPLINARES 
