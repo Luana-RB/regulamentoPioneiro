@@ -179,11 +179,11 @@ b) Membros da ERP;
 c) Membros Natos;
 d) Um representante de cada equipe de organização de eventos regionais daquele ano.
 Art.48 - Na reunião, a ERP deverá:
-Explanar o andamento de suas atividades no trimestre, da organização de seus eventos do ano, de seus projetos e propostas vigentes.
-Fomentar a criação de debates, equipes de interesse e soluções para os problemas vigentes no trimestre.
+a) Explanar o andamento de suas atividades no trimestre, da organização de seus eventos do ano, de seus projetos e propostas vigentes.
+b) Fomentar a criação de debates, equipes de interesse e soluções para os problemas vigentes no trimestre.
 Art.49 - Na reunião, os membros representantes de eventos regionais deverão:
-Na reunião que antecede seu evento, apresentar as condições, infraestrutura, logísticas, e demais questões pertinentes ao evento;
-Na reunião posterior ao seu evento, apresentar um relatório com as dificuldades e problemáticas que tiveram durante a organização e realização do evento, apresentando feedbacks, cotações de valores e outros dados pertinentes.
+a) Na reunião que antecede seu evento, apresentar as condições, infraestrutura, logísticas, e demais questões pertinentes ao evento;
+b) Na reunião posterior ao seu evento, apresentar um relatório com as dificuldades e problemáticas que tiveram durante a organização e realização do evento, apresentando feedbacks, cotações de valores e outros dados pertinentes.
 
 Parágrafo único - Caso o evento do representante ocorra no último trimestre do ano, sua participação durante a próxima reunião deverá ser exclusivamente para apresentação, não tendo direito a voz e voto. 
 Seção II - Duração 
