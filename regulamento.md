@@ -128,11 +128,9 @@ II - assuntos gerais;
 III - credenciamento; 
 IV - quaisquer outras, mediante aprovação da plenária.
 Art. 28 - Compete à Mesa Diretora, formada pela Equipe Regional Pioneira: 
-a)
-b) Entregar antes do início formal do Fórum as credenciais dos delegados; 
-c) Fazer a apresentação das propostas de alteração do Regulamento Pioneiro vigente e dos demais temas a serem discutidos; 
-c) Atuar, por todos os meios possíveis, para que o Fórum seja bem-sucedido e inteiramente desenvolvido pelos próprios jovens, organizando inclusive, sempre que necessário, grupos de debate; 
-d) Manter o nível de discussões da Plenária e evitar que haja desvio dos assuntos em pauta;
+a) Conduzir o Fórum seguindo o Estatuto da UEB, este Regulamento e demais documentos normativos aplicáveis, garantindo que ele seja inteiramente desenvolvido pelos próprios jovens e evitando que haja desvios dos assuntos em pauta; 
+b) Entregar, antes do início formal do Fórum, as credenciais dos delegados; 
+c) Apresentar as propostas de alteração do Regulamento Pioneiro e dos demais temas a serem discutidos; 
 d) Encaminhar as votações; 
 e) Redigir e assinar a ata do Fórum;
 f) Divulgar a Ata, as conclusões do Fórum, bem como o Regulamento do Ramo Pioneiro modificado, quando houver, junto aos órgãos competentes do Escritório Regional no prazo máximo de até duas (02) semanas, a contar o encerramento do fórum. 
