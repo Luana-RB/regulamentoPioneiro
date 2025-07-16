@@ -67,7 +67,7 @@ d) Convocar e presidir as reuniões, tanto ordinárias como extraordinárias, da
 e) Ocupar o cargo de presidente da Mesa Diretora do Fórum Regional Pioneiro.
 II - Coordenador(a) de Comunicação: 
 a) Responsável pela ligação entre a Equipe Regional de Comunicação, ERP e os jovens do Ramo Pioneiro; 
-b) Responsável pelos meios de comunicação do Ramo Pioneiro (redes sociais, disponibilização das informações decididas em reuniões, etc.); 
+b) Responsável pelos meios de comunicação do Ramo Pioneiro (publicação nas redes sociais da região referentes ao ramo, disponibilização das informações decididas em reuniões, etc.); 
 c) Auxiliar a equipe organizadora na divulgação dos Eventos Regionais, bem como na produção de material gráfico quando esta equipe não possuir um membro responsável. 
 III - Coordenador(a) de Interiorização: 
 a) Estabelecer e manter o contato com os Clãs das UELs do Interior, fazendo com que as informações do Ramo cheguem ao conhecimento destes; 
