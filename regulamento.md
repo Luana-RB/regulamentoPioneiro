@@ -137,26 +137,24 @@ Art. 40 - Os grupos de debate apresentarão as conclusões em plenária através
 Art. 39 - A plenária é o órgão máximo e soberano do evento, tendo a competência de discutir as propostas apresentadas, sugerindo soluções. 
 Art. 40° - Em caso de empate na votação sobre mudanças no Regulamento, deverão ser organizados grupos de debate para discutir o tema, e após, deverá ser realizada nova votação. Em caso de novo empate, o artigo ficará inalterado. 
 CAPÍTULO II - DO DEBATE PRELIMINAR 
-Art. 41 – Será realizado um Debate Preliminar antes de cada Fórum, a fim de iniciar-se uma reflexão sobre o tema proposto no Fórum passado e apresentar as chapas inscritas para a próxima Equipe Regional Pioneira, candidaturas de Eventos Regionais do ano seguinte e alterações de Regulamento. 
-Art. 42 – Equipes de interesse e Grupos de Debate formadas durante o Debate Preliminar deverão ter ao menos um representante da ERP para atuar como mediador de conflitos. 
+Art. 36 – Será realizado um Debate Preliminar antes de cada Fórum, a fim de iniciar-se uma reflexão sobre o tema proposto no Fórum passado e apresentar as chapas inscritas para a próxima Equipe Regional Pioneira, candidaturas de Eventos Regionais do ano seguinte e alterações de Regulamento. 
+Art. 37 – Equipes de interesse e Grupos de Debate formadas durante o Debate Preliminar deverão ter ao menos um representante da ERP para atuar como mediador de conflitos. 
 CAPÍTULO III - DOS MUTIRÕES REGIONAIS PIONEIROS 
 Seção I - Definição 
-Art. 43 - O Mutirão Regional Pioneiro tem por finalidade congregar os integrantes do Ramo Pioneiro, com o intuito de colocar em prática tudo o que se aprendeu no Movimento Escoteiro e, principalmente, exercer o Lema do Ramo, que é ‘SERVIR’. O clã ou equipe de interesse terá que seguir os requisitos pré-estabelecidos no edital de candidatura, tendo o prazo de sessenta (60) dias antes do evento para apresentar os requisitos completos. Caso os requisitos não sejam cumpridos, ficará a cargo do(a) Coordenador(a) Regional e da Equipe Regional Pioneira tomarem providências sobre o impasse. 
+Art. 38 - O Mutirão Regional Pioneiro tem por finalidade congregar os integrantes do Ramo Pioneiro, com o intuito de colocar em prática tudo o que se aprendeu no Movimento Escoteiro e, principalmente, exercer o Lema do Ramo, que é ‘SERVIR’. O clã ou equipe de interesse terá que seguir os requisitos pré-estabelecidos no edital de candidatura, tendo o prazo de sessenta (60) dias antes do evento para apresentar os requisitos completos. Caso os requisitos não sejam cumpridos, ficará a cargo do(a) Coordenador(a) Regional e da Equipe Regional Pioneira tomarem providências sobre o impasse. 
 Seção II - Duração 
-Art. 44 - Deverão ser realizados pelo menos dois (02) Mutirões Regionais Pioneiros a cada ano, sendo um (01) no primeiro semestre e um (01) no segundo semestre, ambos com a duração mínima de dois (02) dias. 
+Art. 40 - Deverão ser realizados pelo menos dois (02) Mutirões Regionais Pioneiros a cada ano, sendo um (01) no primeiro semestre e um (01) no segundo semestre, ambos com a duração mínima de dois (02) dias. 
 CAPÍTULO IV - DAS VIGÍLIAS REGIONAIS PIONEIRAS 
 Seção I - Definição 
-Art. 45 - A Vigília Regional Pioneira deverá ser realizada em data única, previamente definida no Fórum Regional, por um ou mais Clãs, em local e duração definidos pelos mesmos. 
+Art. 43 - A Vigília Regional Pioneira deverá ser realizada em data única, previamente definida no Fórum Regional, por um ou mais Clãs, em local e duração definidos pelos mesmos. 
 Seção II - Finalidades 
-Art. 46 - As Vigílias tem a finalidade de reflexão, discussão, debates e troca de ideias sobre temas escolhidos no Fórum. 
-Art. 47 – A Equipe Regional Pioneira divulgará material para a realização da Vigília Regional Pioneira.
-8 
-Regulamento Regional Pioneiro Versão 2024 
+Art. 41 - As Vigílias tem a finalidade de reflexão, discussão, debates e troca de ideias sobre temas escolhidos no Fórum. 
+Art. 42 – A Equipe Regional Pioneira divulgará material para a realização da Vigília Regional Pioneira.
 CAPÍTULO V - DA OLIMPÍADA REGIONAL PIONEIRA 
 Seção I - Definição 
-Art. 48 - A Olimpíada Regional Pioneira (OLÍMPIO) tem por finalidade a integração dos jovens do Ramo Pioneiro para a prática de jogos e atividades pré-estabelecidos pelo grupo organizador do evento, desenvolvendo, principalmente, a área física da Progressão do Ramo. 
+Art. 44 - A Olimpíada Regional Pioneira (OLÍMPIO) tem por finalidade a integração dos jovens do Ramo Pioneiro para a prática de jogos e atividades pré-estabelecidos pelo grupo organizador do evento, desenvolvendo, principalmente, a área física da Progressão do Ramo. 
 Seção II - Duração 
-Art 49 - Deverá ser realizada uma Olimpíada Regional Pioneira a cada 2 (dois) anos, preferencialmente com data no primeiro semestre e com duração mínima de 2 (dois) dias. 
+Art 45 - Deverá ser realizada uma Olimpíada Regional Pioneira a cada 2 (dois) anos, preferencialmente com data no primeiro semestre e com duração mínima de 2 (dois) dias. 
 CAPÍTULO VI - DA REUNIÃO DE PRESIDENTES DE COMAD COM A ERP 
 Seção I – Definição 
 Art.50 - Deverá ocorrer uma vez por trimestre uma reunião, sendo 4 reuniões no ano, de forma híbrida ou online, entre a ERP e os Presidentes de COMAD dos clãs do estado. 
@@ -179,11 +177,11 @@ Art.62 - Reuniões extraordinárias deverão ser divulgadas com ao menos 15 (qui
 CAPÍTULO VII - DAS OUTRAS ATIVIDADES REGIONAIS PIONEIRAS 
 Art. 63 - Poderão ocorrer outras atividades organizadas pela Equipe Regional Pioneira, tais como, passeios e acampamentos, excursões, entre outros, ficando a definição de programa, locais, duração e meios de transporte a cargo da organização. 
 TÍTULO III - DAS MEDIDAS DISCIPLINARES 
-Art. 64 - Será de competência da organização do evento analisar e tomar as decisões necessárias nos casos de conduta inadequada de seus membros, trabalhando em conjunto com o clã do associado, comunicando oficialmente à Região o fato e a decisão tomada. 
+Art. 60 - Será de competência da organização do evento analisar e tomar as decisões necessárias nos casos de conduta inadequada de seus membros, trabalhando em conjunto com o clã do associado, comunicando oficialmente à Região o fato e a decisão tomada. 
 Parágrafo único - Em caso de descumprimento das regras do evento as demandas serão encaminhadas ao(à) Coordenador(a) Regional do Ramo Pioneiro, o qual tomará as medidas cabíveis. 
-Art. 65 - Em caso de descumprimento de regra por algum participante do evento, o caso deverá ser avaliado individualmente, e não todo o Clã. 
+Art. 61 - Em caso de descumprimento de regra por algum participante do evento, o caso deverá ser avaliado individualmente, e não todo o Clã. 
 CAPÍTULO VIII - DAS DISPOSIÇÕES GERAIS 
-Art. 66 - Nenhum jovem poderá participar de qualquer atividade regional sem a presença de um Mestre responsável. Caso não seja o mestre do seu clã, o jovem deverá apresentar a autorização da sua Diretoria indicando um adulto responsável. 
-Art. 67 - O presente Regulamento foi aprovado pelo(a) Coordenador(a) Regional, Equipe Regional Pioneira e Diretoria Regional, na cidade de Porto Alegre, no dia 02 de setembro de 2020, revogando os Regimentos anteriores e as disposições em contrário, entrando em vigor a partir de sua aprovação, ficando sujeito a modificações advindas de instâncias superiores. 
-Art. 68 - Este Regulamento não se sobrepõe às normas emanadas das Diretorias Regional e Nacional, dentre eles: Estatutos, P.O.R. e Resoluções em vigor, devendo o mesmo ser submetido à homologação da Direção Regional. 
-Art. 69 - Os casos omissos neste Regulamento e que não encontram solução no P.O.R., Estatuto Nacional e Normas Regionais serão resolvidas pela Equipe Regional Pioneira, exceto durante a realização do Fórum, quando a resolução será de competência da Plenária. 
+Art. 62 - Nenhum jovem poderá participar de qualquer atividade regional sem a presença de um Mestre responsável. Caso não seja o mestre do seu clã, o jovem deverá apresentar a autorização da sua Diretoria indicando um adulto responsável. 
+Art. 63 - O presente Regulamento foi aprovado pelo(a) Coordenador(a) Regional, Equipe Regional Pioneira e Diretoria Regional, na cidade de Porto Alegre, no dia 02 de setembro de 2020, revogando os Regimentos anteriores e as disposições em contrário, entrando em vigor a partir de sua aprovação, ficando sujeito a modificações advindas de instâncias superiores. 
+Art. 64 - Este Regulamento não se sobrepõe às normas emanadas das Diretorias Regional e Nacional, dentre eles: Estatutos, P.O.R. e Resoluções em vigor, devendo o mesmo ser submetido à homologação da Direção Regional. 
+Art. 65 - Os casos omissos neste Regulamento e que não encontram solução no P.O.R., Estatuto Nacional e Normas Regionais serão resolvidas pela Equipe Regional Pioneira, exceto durante a realização do Fórum, quando a resolução será de competência da Plenária. 
