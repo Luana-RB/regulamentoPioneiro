@@ -194,7 +194,7 @@ Art. 52 - Os trimestres do ano serão divididos em: primeiro trimestre (de janei
 § 1º - A primeira reunião do ano deverá ocorrer no mês de janeiro. 
 § 2º - A última reunião do ano deverá ocorrer na primeira quinzena do mês de dezembro. 
 Art. 53 - A data da reunião e suas modalidades de participação deverão ser escolhidas e divulgadas antes do trimestre se iniciar, pela ERP.
-Art. 54 - Reuniões extraordinárias deverão ser divulgadas com ao menos 15 (quinze) dias de antecedência a sua realização.
+Art. 54 - Reuniões extraordinárias deverão ser divulgadas com ao menos 15 (quinze) dias de antecedência a sua realização. 
 CAPÍTULO VII - REUNIÃO TEMÁTICA DO RAMO
 Seção I – Definição 
 Art. 55 - A reunião terá como finalidade o diálogos entre a comunidade pioneira, aberta exclusivamente para os jovens, para debater os principais desafios do ramo e compartilhar experiências e conhecimentos entre clãs.
