@@ -118,10 +118,10 @@ Art. 25 - A organização do Fórum Regional Pioneiro é de responsabilidade da 
 Art. 26 - A Mesa Diretora tem a seguinte composição:
 I - presidente;
 II - vice-presidente;
-III - secretário(a);
+III - secretário(a).
 IV - segundo(a) secretário(a).
 § 1º  - A Presidência do Fórum é de competência do(a) Coordenador(a) Geral da Equipe Regional Pioneira. 
-§ 2º - A escrita da ata é de responsabilidade dos(as) secretários(as)
+§ 2º - A escrita da ata é de responsabilidade dos(as) secretários(as). 
 Art. 27 - Poderão ser compostas, segundo necessidade, as seguintes comissões para auxílio dos trabalhos: 
 I - escrutínio; 
 II - assuntos gerais; 
