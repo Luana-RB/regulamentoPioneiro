@@ -45,7 +45,7 @@ Art. 9° - As chapas devem ser compostas, preferencialmente, por pelo menos dois
 Art. 10 - Todas as chapas que forem se candidatar à ERP devem ter pelo menos um suplente na sua composição. 
 Art. 11 - Membros eleitos para a Equipe Regional Pioneira poderão exercer seu mandato até completarem 21 anos. Se atingirem essa idade antes da troca para a próxima gestão da ERP, estarão automaticamente desligados da sua função na equipe, e devem ser substituídos pelo seu suplente. 
 Art. 12 - É vedada a eleição de membros e chapas da Equipe Regional Pioneira por mais de um (01) mandato. 
-Art. 13 - Fica a cargo da(s) chapa(s) o envio da plataforma de trabalho à ERP atual, e é encargo da ERP atuante encaminhá-la para os demais clãs do estado anteriormente ao Fórum Regional Pioneiro, conforme previsto no Artigo 26 deste Regulamento.
+Art. 13 - Fica a cargo da(s) chapa(s) o envio de seu plano de trabalho à ERP atual, e é encargo da ERP atuante encaminhá-la para os demais clãs do estado anteriormente ao Fórum Regional Pioneiro, conforme previsto no Artigo 22 deste Regulamento. 
 Art. 14 - A inscrição da(s) chapa(s) deverá realizar-se até o debate preliminar, mediante entrega da nominata e das propostas de trabalho à atual Equipe Regional Pioneira. 
 Parágrafo único - Caso não ocorram candidaturas à Equipe Regional Pioneira, é de competência da plenária encontrar uma solução durante o Fórum Regional. 
 Art. 15 - Em caso de duas chapas, será eleita a que obtiver a maioria simples de aprovação da plenária. Se houver mais de duas chapas concorrentes, a eleição será realizada em dois turnos, ficando para o segundo turno somente as duas chapas mais votadas durante o primeiro turno. Caso uma das chapas obtenha votação superior à soma da votação das chapas concorrentes no primeiro turno, essa estará automaticamente eleita. Em caso de empate, será feita nova votação, na qual cada clã terá direito a um voto. 
@@ -67,7 +67,7 @@ d) Convocar e presidir as reuniões, tanto ordinárias como extraordinárias, da
 e) Ocupar o cargo de presidente da Mesa Diretora do Fórum Regional Pioneiro.
 II - Coordenador(a) de Comunicação: 
 a) Responsável pela ligação entre a Equipe Regional de Comunicação, ERP e os jovens do Ramo Pioneiro; 
-b) Responsável pelos meios de comunicação do Ramo Pioneiro (redes sociais, disponibilização informações decididas em reuniões, etc.); 
+b) Responsável pelos meios de comunicação do Ramo Pioneiro (redes sociais, disponibilização das informações decididas em reuniões, etc.); 
 c) Auxiliar a equipe organizadora na divulgação dos Eventos Regionais, bem como na produção de material gráfico quando esta equipe não possuir um membro responsável. 
 III - Coordenador(a) de Interiorização: 
 a) Estabelecer e manter o contato com os Clãs das UELs do Interior, fazendo com que as informações do Ramo cheguem ao conhecimento destes; 
@@ -80,7 +80,7 @@ c) Zelar pelo Patrimônio da Equipe Regional Pioneira.
 V - Coordenador(a) Administrativo: 
 a) Ter o contato direto com o Escritório Regional; 
 b) Administrar o e-mail da Equipe Regional Pioneira, assim como manter atualizada a lista de contatos deste; 
-c) Fica responsável por secretariar as reuniões da Equipe Regional Pioneira, escreverlavrando as atas e manterndo em ordem todos os documentos do Ramo. 
+c) Fica responsável por secretariar as reuniões da Equipe Regional Pioneira, escrever as atas e manter em ordem todos os documentos do Ramo. 
 VI - Coordenadores Suplentes:
 a) Ajudar a Equipe em áreas específicas, sempre que houver necessidade;
 b) Substituir membros da equipe que estejam afastados ou exonerados.
@@ -97,7 +97,7 @@ Parágrafo único - As reuniões da Equipe Regional Pioneira podem ser abertas a
 TÍTULO II - DAS ATIVIDADES 
 CAPÍTULO I - DOS FÓRUNS REGIONAIS PIONEIROS 
 Seção I - Da Realização e da Duração 
-Art. 22 - Será realizado um (01) Fórum Ordinário por ano, entre os meses de julho e agosto, com duração mínima de um dia. Em caso de necessidade, poderão ocorrer Fóruns Extraordinários em qualquer período do ano.
+Art. 22 - Será realizado um (01) Fórum Ordinário por ano, entre os meses de julho e agosto, com duração mínima de um dia. Em caso de necessidade, poderão ocorrer Fóruns Extraordinários em qualquer período do ano. 
 § 1° - O Fórum Regional Pioneiro Ordinário não poderá ser realizado na mesma data dos Mutirões Regionais Pioneiros e da Olimpíada Regional Pioneira. 
 § 2° - Cada edição do Fórum será identificada pela numeração correspondente à sua Ata, passando a ser representada por algarismos romanos. 
 § 3° - A Equipe Regional Pioneira deve divulgar aos pioneiros, no prazo de até dez dias antes do Fórum Regional Pioneiro, as propostas de alteração do Regulamento vigente e as autorizações da UEL para candidaturas a cargos e eventos regionais. 
@@ -111,7 +111,7 @@ c) Observadores.
 § 3° - São observadores, os demais pioneiros inscritos no Fórum, bem como os jovens em transição do Ramo Sênior para o Ramo Pioneiro. 
 § 4° - Todos os membros do Fórum terão direito a voz, sendo que somente os delegados e membros natos terão direito a voto.
 § 5° - É proibida a limitação de vagas para participantes. 
-Art. 24 - Cada Clã poderá apresentarfazer-se representar por dois (02) pioneiros(as) delegados(as), na qualidade de delegados, acrescidos de um (01) delegado(a) para cada cinco (05) membros do Clã, registrados na UEB naquele ano. 
+Art. 24 - Cada Clã poderá apresentar por dois (02) pioneiros(as) delegados(as), acrescidos de um (01) delegado(a) para cada cinco (05) membros do Clã, registrados na UEB naquele ano. 
 Seção III – Da Organização e da Coordenação 
 
 Art. 25 - A organização do Fórum Regional Pioneiro é de responsabilidade da ERP e do(s) clã(s) organizador(es), observadas as normas e regras do Estatuto Regional, do Estatuto Nacional e do P.O.R.
@@ -126,14 +126,12 @@ II - assuntos gerais;
 III - credenciamento; 
 IV - quaisquer outras, mediante aprovação da plenária.
 Art. 28 - Compete à Mesa Diretora, formada pela Equipe Regional Pioneira: 
-Conduzir o Fórum seguindo o Estatuto da UEB, este Regulamento e demais documentos normativos aplicáveis, garantindo que ele seja inteiramente desenvolvido pelos próprios jovens e evitando que haja desvios dos assuntos em pauta; 
-Entregar, antes do início formal do Fórum, as credenciais dos delegados; 
+a) Conduzir o Fórum seguindo o Estatuto da UEB, este Regulamento e demais documentos normativos aplicáveis, garantindo que ele seja inteiramente desenvolvido pelos próprios jovens e evitando que haja desvios dos assuntos em pauta; 
+b) Entregar, antes do início formal do Fórum, as credenciais dos delegados; 
 c) Apresentar as propostas de alteração do Regulamento Pioneiro e dos demais temas a serem discutidos; 
-d) Atuar, por todos os meios possíveis, para que o Fórum seja bem-sucedido e inteiramente desenvolvido pelos próprios jovens, organizando inclusive, sempre que necessário, grupos de debate; 
-e) Manter o nível de discussões da Plenária e evitar que haja desvio dos assuntos em pauta;
-e) Encaminhar as votações; 
-f) Redigir e assinar a ata do Fórum;Elaborar o texto final da Ata e das conclusões do Fórum, devendo as mesmas serem aprovadas até o final do Fórum correspondente; 
-g) Divulgar a Ata, as conclusões do Fórum, bem como o Regulamento do Ramo Pioneiro modificado, quando houver, junto aos órgãos competentes do Escritório Regional no prazo máximo de até duas (02) semanas, a contar o encerramento do fórum. 
+d) Encaminhar as votações; 
+e) Redigir e assinar a ata do Fórum;
+f) Divulgar a Ata, as conclusões do Fórum, bem como o Regulamento do Ramo Pioneiro modificado, quando houver, junto aos órgãos competentes do Escritório Regional no prazo máximo de até duas (02) semanas, a contar o encerramento do fórum. 
 Seção IV – Do encaminhamento dos Temas, dos Grupos de Debates e das Seções Plenárias 
 Art. 29 - As propostas de alterações do Regulamento Regional do Ramo Pioneiro deverão ser enviadas à Equipe Regional Pioneira com no mínimo quatorze (14) dias de antecedência à realização do Fórum Regional Pioneiro.
 Art. 30 - O tema a ser discutido no Fórum Regional será decidido no Fórum anterior. 
