@@ -108,7 +108,7 @@ Seção III – Da Organização e da Coordenação
 
 Art. 25 - A organização do Fórum Regional Pioneiro é de responsabilidade da ERP e do(s) Clã(s) organizador(es), observadas as normas e regras do Estatuto Regional, do Estatuto Nacional e do P.O.R. 
 Parágrafo único - A Presidência do Fórum é de competência do Coordenador Geral da Equipe Regional Pioneira. 
-Art. 26 - Compete à Mesa Diretora, formada pela Equipe Regional Pioneira: 
+Art. 27 - Compete à Mesa Diretora, formada pela Equipe Regional Pioneira: 
 a) Entregar antes do início formal do Fórum as credenciais dos delegados; 
 b) Fazer a apresentação das propostas de alteração do Regulamento Pioneiro vigente e dos demais temas a serem discutidos; 
 c) Atuar, por todos os meios possíveis, para que o Fórum seja bem-sucedido e inteiramente desenvolvido pelos próprios jovens, organizando inclusive, sempre que necessário, grupos de debate; 
@@ -118,21 +118,21 @@ f ) Relatar as conclusões do Fórum;
 g) Elaborar o texto final da Ata e das conclusões do Fórum, devendo as mesmas serem aprovadas até o final do Fórum correspondente; 
 h) Divulgar a Ata, as conclusões do Fórum, bem como o Regulamento do Ramo Pioneiro com as devidas modificações, quando houver, junto aos órgãos competentes do Escritório Regional e aos demais pioneiros do Estado no prazo máximo de até duas (02) semanas, a contar o encerramento do fórum. 
 Seção IV – Do encaminhamento dos Temas, dos Grupos de Debates e das Seções Plenárias 
-Art. 27 - As propostas de alterações do Regulamento do Ramo Pioneiro deverão ser enviadas à Equipe Regional Pioneira com no mínimo quatorze (14) dias de antecedência à realização do Fórum Regional Pioneiro. 
-Art. 28 - O tema a ser discutido no Fórum Regional será decidido no Fórum anterior. 
-Art. 29 - O sistema adotado para encaminhamento do estudo e da discussão dos temas para o Fórum posterior será por agrupamento dos assuntos correlatos. 
-Art. 30 - Conforme a necessidade, será competência da Plenária decidir se os temas apresentados serão discutidos em grupos de debate. 
+Art. 28 - As propostas de alterações do Regulamento do Ramo Pioneiro deverão ser enviadas à Equipe Regional Pioneira com no mínimo quatorze (14) dias de antecedência à realização do Fórum Regional Pioneiro. 
+Art. 29 - O tema a ser discutido no Fórum Regional será decidido no Fórum anterior. 
+Art. 30 - O sistema adotado para encaminhamento do estudo e da discussão dos temas para o Fórum posterior será por agrupamento dos assuntos correlatos. 
+Art. 31 - Conforme a necessidade, será competência da Plenária decidir se os temas apresentados serão discutidos em grupos de debate. 
 Parágrafo único - Se a análise dos temas for feita em grupos de debates, os delegados e os membros natos do Fórum serão reunidos pela Mesa Diretora, através de sorteio. 
-Art. 31 - Os grupos de debate apresentarão as conclusões em plenária através de um relator para tal fim designado, dentre os integrantes de cada grupo. 
-Art. 32 - A plenária é o órgão máximo e soberano do evento, tendo a competência de discutir as propostas apresentadas, sugerindo soluções. 
-Art. 33 - Em caso de empate na votação sobre mudanças no Regulamento, deverão ser organizados grupos de debate para discutir o tema, e após, deverá ser realizada nova votação. Em caso de novo empate, o artigo ficará inalterado. 
+Art. 32 - Os grupos de debate apresentarão as conclusões em plenária através de um relator para tal fim designado, dentre os integrantes de cada grupo. 
+Art. 33 - A plenária é o órgão máximo e soberano do evento, tendo a competência de discutir as propostas apresentadas, sugerindo soluções. 
+Art. 34 - Em caso de empate na votação sobre mudanças no Regulamento, deverão ser organizados grupos de debate para discutir o tema, e após, deverá ser realizada nova votação. Em caso de novo empate, o artigo ficará inalterado. 
 Seção V - Das Responsabilidades do Plenário 
-Art. 34 - As propostas de alterações do Regulamento do Ramo Pioneiro deverão ser enviadas à Equipe Regional Pioneira com no mínimo quatorze (14) dias de antecedência à realização do Fórum Regional Pioneiro.
-Art. 35 - O tema a ser discutido no Fórum Regional será decidido no Fórum anterior. 
-Art. 36 - O sistema adotado para encaminhamento do estudo e da discussão dos temas para o Fórum posterior será por agrupamento dos assuntos correlatos. 
-Art. 37 - Conforme a necessidade, será competência da Plenária decidir se os temas apresentados serão discutidos em grupos de debate. 
+Art. 35 - As propostas de alterações do Regulamento do Ramo Pioneiro deverão ser enviadas à Equipe Regional Pioneira com no mínimo quatorze (14) dias de antecedência à realização do Fórum Regional Pioneiro.
+Art. 36 - O tema a ser discutido no Fórum Regional será decidido no Fórum anterior. 
+Art. 37 - O sistema adotado para encaminhamento do estudo e da discussão dos temas para o Fórum posterior será por agrupamento dos assuntos correlatos. 
+Art. 38 - Conforme a necessidade, será competência da Plenária decidir se os temas apresentados serão discutidos em grupos de debate. 
 Parágrafo único - Se a análise dos temas for feita em grupos de debates, os delegados e os membros natos do Fórum serão reunidos pela Mesa Diretora, através de sorteio. 
-Art. 38 - Os grupos de debate apresentarão as conclusões em plenária através de um relator para tal fim designado, dentre os integrantes de cada grupo. 
+Art. 39 - Os grupos de debate apresentarão as conclusões em plenária através de um relator para tal fim designado, dentre os integrantes de cada grupo. 
 Art. 39 - A plenária é o órgão máximo e soberano do evento, tendo a competência de discutir as propostas apresentadas, sugerindo soluções. 
 Art. 40° - Em caso de empate na votação sobre mudanças no Regulamento, deverão ser organizados grupos de debate para discutir o tema, e após, deverá ser realizada nova votação. Em caso de novo empate, o artigo ficará inalterado. 
 CAPÍTULO II - DO DEBATE PRELIMINAR 
