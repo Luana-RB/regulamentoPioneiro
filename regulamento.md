@@ -193,7 +193,7 @@ Art. 51 - Caso a reunião ocorra na mesma data do Debate Preliminar, ela deverá
 Art. 52 - Os trimestres do ano serão divididos em: primeiro trimestre (de janeiro a março), segundo trimestre (de abril a junho), terceiro trimestre (de julho a setembro), quarto trimestre (de outubro a dezembro).
 § 1º - A primeira reunião do ano deverá ocorrer no mês de janeiro. 
 § 2º - A última reunião do ano deverá ocorrer na primeira quinzena do mês de dezembro. 
-Art. 53 - A data da reunião e suas modalidades de participação deverão ser escolhidas e divulgadas antes do trimestre se iniciar, pela ERP.
+Art. 53 - A data da reunião e suas modalidades de participação deverão ser escolhidas e divulgadas antes do trimestre se iniciar, pela ERP. 
 Art. 54 - Reuniões extraordinárias deverão ser divulgadas com ao menos 15 (quinze) dias de antecedência a sua realização. 
 CAPÍTULO VII - REUNIÃO TEMÁTICA DO RAMO
 Seção I – Definição 
