@@ -109,14 +109,14 @@ Seção III – Da Organização e da Coordenação
 Art. 25 - A organização do Fórum Regional Pioneiro é de responsabilidade da ERP e do(s) Clã(s) organizador(es), observadas as normas e regras do Estatuto Regional, do Estatuto Nacional e do P.O.R. 
 Parágrafo único - A Presidência do Fórum é de competência do Coordenador Geral da Equipe Regional Pioneira. 
 Art. 28 - Compete à Mesa Diretora, formada pela Equipe Regional Pioneira: 
-a) Entregar antes do início formal do Fórum as credenciais dos delegados; 
-b) Fazer a apresentação das propostas de alteração do Regulamento Pioneiro vigente e dos demais temas a serem discutidos; 
+b) Entregar antes do início formal do Fórum as credenciais dos delegados; 
+c) Fazer a apresentação das propostas de alteração do Regulamento Pioneiro vigente e dos demais temas a serem discutidos; 
 c) Atuar, por todos os meios possíveis, para que o Fórum seja bem-sucedido e inteiramente desenvolvido pelos próprios jovens, organizando inclusive, sempre que necessário, grupos de debate; 
 d) Manter o nível de discussões da Plenária e evitar que haja desvio dos assuntos em pauta;
-e) Encaminhar as votações; 
+d) Encaminhar as votações; 
 f ) Relatar as conclusões do Fórum; 
 g) Elaborar o texto final da Ata e das conclusões do Fórum, devendo as mesmas serem aprovadas até o final do Fórum correspondente; 
-h) Divulgar a Ata, as conclusões do Fórum, bem como o Regulamento do Ramo Pioneiro com as devidas modificações, quando houver, junto aos órgãos competentes do Escritório Regional e aos demais pioneiros do Estado no prazo máximo de até duas (02) semanas, a contar o encerramento do fórum. 
+f) Divulgar a Ata, as conclusões do Fórum, bem como o Regulamento do Ramo Pioneiro com as devidas modificações, quando houver, junto aos órgãos competentes do Escritório Regional e aos demais pioneiros do Estado no prazo máximo de até duas (02) semanas, a contar o encerramento do fórum. 
 Seção IV – Do encaminhamento dos Temas, dos Grupos de Debates e das Seções Plenárias 
 Art. 29 - As propostas de alterações do Regulamento do Ramo Pioneiro deverão ser enviadas à Equipe Regional Pioneira com no mínimo quatorze (14) dias de antecedência à realização do Fórum Regional Pioneiro. 
 Art. 30 - O tema a ser discutido no Fórum Regional será decidido no Fórum anterior. 
