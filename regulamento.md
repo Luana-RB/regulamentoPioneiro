@@ -143,7 +143,7 @@ Art. 32 - Conforme a necessidade, será competência da Plenária decidir se os 
 § 2º - Os grupos de debate apresentarão as conclusões em plenária através de um relator para tal fim designado, dentre os integrantes de cada grupo. 
 Art. 33 - Em caso de empate na votação sobre mudanças no Regulamento, deverão ser organizados grupos de debate para discutir o tema, e após, deverá ser realizada nova votação. Em caso de novo empate, o artigo ficará inalterado. 
 Seção V - Das Responsabilidades da Plenária 
-Art. 34 - A Plenária é o órgão máximo e soberano do evento, tendo a competência de discutir as propostas apresentadas, sugerindo soluções.
+Art. 34 - A Plenária é o órgão máximo e soberano do Ramo, tendo a competência de discutir as propostas apresentadas, sugerindo soluções.
 Art. 35 - São de responsabilidade e competência da Plenária:
 a) Aprovar a ata do Fórum Regional Pioneiro anterior;
 b) Eleger as cidades-sedes dos eventos regionais pioneiros do próximo ano;
