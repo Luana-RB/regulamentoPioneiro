@@ -109,6 +109,7 @@ Seção III – Da Organização e da Coordenação
 Art. 25 - A organização do Fórum Regional Pioneiro é de responsabilidade da ERP e do(s) Clã(s) organizador(es), observadas as normas e regras do Estatuto Regional, do Estatuto Nacional e do P.O.R. 
 Parágrafo único - A Presidência do Fórum é de competência do Coordenador Geral da Equipe Regional Pioneira. 
 Art. 28 - Compete à Mesa Diretora, formada pela Equipe Regional Pioneira: 
+a)
 b) Entregar antes do início formal do Fórum as credenciais dos delegados; 
 c) Fazer a apresentação das propostas de alteração do Regulamento Pioneiro vigente e dos demais temas a serem discutidos; 
 c) Atuar, por todos os meios possíveis, para que o Fórum seja bem-sucedido e inteiramente desenvolvido pelos próprios jovens, organizando inclusive, sempre que necessário, grupos de debate; 
