@@ -135,7 +135,7 @@ d) Encaminhar as votações;
 e) Redigir e assinar a ata do Fórum;
 f) Divulgar a Ata, as conclusões do Fórum, bem como o Regulamento do Ramo Pioneiro modificado, quando houver, junto aos órgãos competentes do Escritório Regional no prazo máximo de até duas (02) semanas, a contar o encerramento do fórum. 
 Seção IV – Do encaminhamento dos Temas, dos Grupos de Debates e das Seções Plenárias 
-Art. 29 - As propostas de alterações do Regulamento Regional do Ramo Pioneiro deverão ser enviadas à Equipe Regional Pioneira com no mínimo quatorze (14) dias de antecedência à realização do Fórum Regional Pioneiro. 
+Art. 29 - As propostas de alterações do Regulamento do Ramo Pioneiro deverão ser enviadas à Equipe Regional Pioneira com no mínimo quatorze (14) dias de antecedência à realização do Fórum Regional Pioneiro. 
 Art. 30 - O tema a ser discutido no Fórum Regional será decidido no Fórum anterior. 
 Art. 31 - Os encaminhamentos de estudo e discussão de temas para o Fórum posterior serão agrupados por assuntos correlatos.
 Art. 32 - Conforme a necessidade, será competência da Plenária decidir se os temas apresentados serão discutidos em grupos de debate. 
