@@ -3,15 +3,15 @@ Art. 1° - O Ramo Pioneiro é regulamentado conforme o Estatuto dos Escoteiros d
 Art. 2° - O Ramo Pioneiro, no nível regional, terá um(a) escotista como Coordenador(a) Regional do Ramo com no  mínimo o nível intermediário de formação na linha escotista Ramo Pioneiro. 
 Art. 3° - O Regulamento do Ramo Pioneiro poderá ser alterado pelo Fórum Regional Pioneiro ou por demandas oriundas da Diretoria Regional. 
 CAPÍTULO I - DO COORDENADOR REGIONAL 
-Art. 4º - O(A) Coordenador(a) Regional do Ramo Pioneiro será escolhido(a) pela Diretoria Regional, mediante a  apresentação de uma lista de nomes indicados pela plenária de Mestres durante o Fórum Regional Pioneiro, quando  solicitada. Esta lista será feita colaborativamente por uma Equipe de Interesse de jovens a ser formada também  durante o Fórum Regional Pioneiro. 
-Parágrafo único - Em situações de afastamento por qualquer situação, a Diretoria Regional nomeará outro  escotista para cumprir o restante do período designado. 
+Art. 4º - O(A) Coordenador(a) Regional do Ramo Pioneiro será escolhido(a) pela Diretoria Regional, mediante a apresentação de uma lista de nomes indicados pela plenária de Mestres durante o Fórum Regional Pioneiro, quando solicitada. Esta lista será feita colaborativamente por uma Equipe de Interesse de jovens a ser formada também durante o Fórum Regional Pioneiro. 
+Parágrafo único - Em situações de afastamento por qualquer situação, a Diretoria Regional nomeará outro escotista para cumprir o restante do período designado. 
 Art. 5° - Compete ao(à) Coordenador(a) Regional as seguintes atribuições: 
 a) Comparecer assiduamente ou fazer-se representar nas reuniões convocadas pela Diretoria Regional; 
 b) Comparecer assiduamente ou fazer-se representar nas atividades regionais do Ramo Pioneiro; 
 c) Zelar pelo cumprimento do Regulamento do Ramo Pioneiro do RS; 
 d) Zelar pela segurança nas atividades pioneiras em nível regional; 
 e) Criar oportunidades para o desenvolvimento de lideranças de jovens e adultos; 
-f ) Identificar oportunidades para o desenvolvimento e aprimoramento do Ramo Pioneiro no Estado do RS,  encaminhando-as à Diretoria Regional; 
+f ) Identificar oportunidades para o desenvolvimento e aprimoramento do Ramo Pioneiro no Estado do RS, encaminhando-as à Diretoria Regional; 
 g) Promover a harmonia entre os integrantes do Ramo Pioneiro em qualquer instância, mediando situações de  conflitos; 
 h) Propor, estimular e divulgar estudos e pesquisas sobre o desenvolvimento do Ramo Pioneiro no RS; 
 i) Gerir (supervisionar e coordenar) a Equipe Regional Pioneira; 
@@ -23,10 +23,10 @@ CAPÍTULO II - DA EQUIPE REGIONAL PIONEIRA
 Seção I – Dos Jovens 
 Art. 6° - Compete à Equipe Regional Pioneira as seguintes atribuições: 
 a) Agir em cooperação mútua com a Diretoria Regional, a Coordenação Regional do Ramo Pioneiro, o Núcleo  Regional de Jovens Líderes, e demais áreas e equipes interessadas; 
-b) Orientar e apoiar, juntamente com o(a) Coordenador(a) Regional do Ramo Pioneiro e a Diretoria Regional, todas  as atividades do Ramo em nível Regional;
+b) Orientar e apoiar, juntamente com o(a) Coordenador(a) Regional do Ramo Pioneiro e a Diretoria Regional, todas as atividades do Ramo em nível Regional;
 c) Auxiliar na divulgação das atividades organizadas pelos Clãs; 
 d) Incentivar e auxiliar na formação de novos Clãs Pioneiros no Estado; 
-e) Incentivar a participação do Ramo Pioneiro em todas as atividades, principalmente nas atividades de cunho  comunitário que vierem a ser organizadas pela Diretoria Regional; 
+e) Incentivar a participação do Ramo Pioneiro em todas as atividades, principalmente nas atividades de cunho comunitário que vierem a ser organizadas pela Diretoria Regional; 
 f ) Manter atualizada a relação dos Clãs Pioneiros existentes no estado; 
 g) Pautar em suas reuniões os assuntos propostos pelos Clãs, informando aos mesmos a data da reunião para que  se façam presentes nos debates; 
 h) Manter-se imparcial perante as votações e discussões do Ramo, não influenciando nas decisões. Em atividades  de seus Clãs, como membros, devem participar e opinar como pioneiros normais; 
