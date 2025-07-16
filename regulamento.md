@@ -126,7 +126,7 @@ Art. 32 - Conforme a necessidade, será competência da Plenária decidir se os 
 Parágrafo único - Se a análise dos temas for feita em grupos de debates, os delegados e os membros natos do Fórum serão reunidos pela Mesa Diretora, através de sorteio. 
 Art. 33 - Os grupos de debate apresentarão as conclusões em plenária através de um relator para tal fim designado, dentre os integrantes de cada grupo. 
 Art. 34 - A plenária é o órgão máximo e soberano do evento, tendo a competência de discutir as propostas apresentadas, sugerindo soluções. 
-Art. 35 - Em caso de empate na votação sobre mudanças no Regulamento, deverão ser organizados grupos de debate para discutir o tema, e após, deverá ser realizada nova votação. Em caso de novo empate, o artigo ficará inalterado. 
+Art. 33 - Em caso de empate na votação sobre mudanças no Regulamento, deverão ser organizados grupos de debate para discutir o tema, e após, deverá ser realizada nova votação. Em caso de novo empate, o artigo ficará inalterado. 
 Seção V - Das Responsabilidades do Plenário 
 Art. 36 - As propostas de alterações do Regulamento do Ramo Pioneiro deverão ser enviadas à Equipe Regional Pioneira com no mínimo quatorze (14) dias de antecedência à realização do Fórum Regional Pioneiro.
 Art. 37 - O tema a ser discutido no Fórum Regional será decidido no Fórum anterior. 
