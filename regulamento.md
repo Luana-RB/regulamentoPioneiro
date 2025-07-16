@@ -31,10 +31,10 @@ f ) Manter atualizada a relação dos Clãs Pioneiros existentes no estado;
 g) Pautar em suas reuniões os assuntos propostos pelos Clãs, informando aos mesmos a data da reunião 10 dias antes, para que se façam presentes nos debates; 
 h) Manter-se imparcial perante as votações e discussões do Ramo, não influenciando nas decisões. Em atividades de seus Clãs, como membros, devem participar e opinar como pioneiros normais; 
 i) Manter o Campo Pioneiro localizado no Campo Escola Dr. João Ribeiro dos Santos – Parque Saint Hilaire em bom estado, e incentivar seu uso; 
-j) Zelar pelo Patrimônio já existente e adquirido pela Equipe Regional Pioneira. 
-k) Fomentar, em comum acordo com os Coordenadores Distritais, a criação de COMADs distritais.
+j) Zelar pelo Patrimônio já existente e adquirido pela Equipe Regional Pioneira;
+k) Fomentar, em comum acordo com os Coordenadores Distritais, a criação de COMADs distritais;
 l) Gerenciar e divulgar uma pasta pública com materiais do Ramo, como fichas de atividades, relatórios de projetos e boletins de eventos;
-m) Organizar e presidir a plenária do Fórum Regional Pioneiro, junto do clã organizador do evento.
+m) Organizar e presidir a plenária do Fórum Regional Pioneiro, junto do clã organizador do evento;
 n) Montar e divulgar o material recomendado para a realização da Vigília Regional Pioneira;
 o) Organizar e conduzir a reunião temática do ramo, que acontece no Congresso Regional.
 
