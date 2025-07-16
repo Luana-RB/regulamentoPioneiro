@@ -40,7 +40,7 @@ o) Organizar e conduzir a reunião temática do ramo, que acontece no Congresso 
 
 Seção II – Da Eleição e do Mandato 
 Art. 7° - A eleição da Equipe Regional Pioneira será realizada durante o Fórum Regional. A posse da nova equipe será realizada em cerimônia específica, durante o último Mutirão Ordinário do Ano, obedecendo às disposições do presente Regulamento. 
-Art. 8° - Para ser candidato(a) à Equipe Regional Pioneira, o(a) pioneiro(a) deverá comprovar sua Insígnia de Comprometimento no momento da candidatura. 
+Art. 8° - Para ser candidato(a) à Equipe Regional Pioneira, o(a) pioneiro(a) deverá comprovar sua Promessa Escoteira no momento da candidatura. 
 Art. 9° - As chapas devem ser compostas, preferencialmente, por pelo menos dois integrantes que estejam inscritos em UELs de fora da Região Metropolitana de Porto Alegre. 
 Art. 10 - Todas as chapas que forem se candidatar à ERP devem ter pelo menos um suplente na sua composição. 
 Art. 11 - Membros eleitos para a Equipe Regional Pioneira poderão exercer seu mandato até completarem 21 anos. Se atingirem essa idade antes da troca para a próxima gestão da ERP, estarão automaticamente desligados da sua função na equipe, e devem ser substituídos pelo seu suplente. 
@@ -164,11 +164,10 @@ Seção I - Definição
 Art. 41 - As Vigílias tem a finalidade de reflexão, discussão, debates e troca de ideias sobre temas escolhidos no Fórum. 
 Art. 42 – A Equipe Regional Pioneira divulgará material para a realização da Vigília Regional Pioneira.
 Seção II - Duração 
-Art. 43 - A Vigília Regional Pioneira deverá ser realizada em data única, previamente definida no Fórum Regional, de forma descentralizada.
-
+Art. 43 - A Vigília Regional Pioneira deverá ser realizada de forma descentralizada.
 CAPÍTULO V - DA OLIMPÍADA REGIONAL PIONEIRA 
 Seção I - Definição 
-Art. 44 - A Olimpíada Regional Pioneira (OLÍMPIO) tem por finalidade a integração dos jovens do Ramo Pioneiro para a prática de jogos e atividades pré-estabelecidos pelo grupo organizador do evento, desenvolvendo, principalmente, a área física da Progressão do Ramo. 
+Art. 44 - A Olimpíada Regional Pioneira (OLÍMPIO) tem por finalidade a integração dos jovens do Ramo Pioneiro para a prática de jogos e atividades pré-estabelecidos pelo grupo organizador do evento, desenvolvendo, principalmente, a área de desenvolvimento física e o eixo de Saúde e Bem Estar da Progressão do Ramo. 
 Seção II - Duração 
 Art 45 - Deverá ser realizada uma Olimpíada Regional Pioneira a cada 2 (dois) anos, preferencialmente com data no primeiro semestre e com duração mínima de 2 (dois) dias. 
 CAPÍTULO VI - DA REUNIÃO DE PRESIDENTES DE COMAD COM A ERP 
