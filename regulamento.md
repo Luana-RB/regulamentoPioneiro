@@ -176,7 +176,7 @@ Art. 52 - Os trimestres do ano serão divididos em primeiro trimestre de janeiro
 Art. 53 - A data da reunião e suas modalidades de participação deverão ser escolhidas e divulgadas antes do trimestre se iniciar, pela ERP. 
 Art. 54 - Reuniões extraordinárias deverão ser divulgadas com ao menos 15 (quinze) dias de antecedência a sua realização. 
 CAPÍTULO VII - DAS OUTRAS ATIVIDADES REGIONAIS PIONEIRAS 
-Art. 63 - Poderão ocorrer outras atividades organizadas pela Equipe Regional Pioneira, tais como, passeios e acampamentos, excursões, entre outros, ficando a definição de programa, locais, duração e meios de transporte a cargo da organização. 
+Art. 59 - Poderão ocorrer outras atividades organizadas pela Equipe Regional Pioneira, tais como, passeios e acampamentos, excursões, entre outros, ficando a definição de programa, locais, duração e meios de transporte a cargo da organização. 
 TÍTULO III - DAS MEDIDAS DISCIPLINARES 
 Art. 60 - Será de competência da organização do evento analisar e tomar as decisões necessárias nos casos de conduta inadequada de seus membros, trabalhando em conjunto com o clã do associado, comunicando oficialmente à Região o fato e a decisão tomada. 
 Parágrafo único - Em caso de descumprimento das regras do evento as demandas serão encaminhadas ao(à) Coordenador(a) Regional do Ramo Pioneiro, o qual tomará as medidas cabíveis. 
