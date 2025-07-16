@@ -148,7 +148,8 @@ Art. 35 - São de responsabilidade e competência da Plenária:
 a) Aprovar a ata do Fórum Regional Pioneiro anterior;
 b) Eleger as cidades-sedes dos eventos regionais pioneiros do próximo ano;
 c) Eleger a Equipe Regional Pioneira;
-d) Deliberar sobre alterações no Regulamento Regional do Ramo Pioneiro.
+d) Deliberar sobre alterações no Regulamento Regional do Ramo Pioneiro;
+e) Deliberar sobre demais questões pertinentes ao Ramo.
 CAPÍTULO II - DO DEBATE PRELIMINAR 
 Art. 36 – Será realizado um Debate Preliminar antes de cada Fórum, a fim de iniciar-se uma reflexão sobre o tema proposto no Fórum passado e apresentar as chapas inscritas para a próxima Equipe Regional Pioneira, candidaturas de Eventos Regionais do ano seguinte e alterações de Regulamento.
 Art. 37 – Equipes de interesse e Grupos de Debate formados durante o Debate Preliminar deverão ter ao menos um representante da ERP para atuar como mediador de conflitos. 
