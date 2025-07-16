@@ -160,21 +160,21 @@ Seção I – Definição
 Art.50 - Deverá ocorrer uma vez por trimestre uma reunião, sendo 4 reuniões no ano, de forma híbrida ou online, entre a ERP e os Presidentes de COMAD dos clãs do estado. 
 Seção II – Finalidades 
 Art 51 - As reuniões servirão para diálogos entre a comunidade pioneira, apresentação da gestão da ERP no trimestre, solicitações e feedbacks dos Presidentes, debates e explanações necessárias no ramo, divulgação de eventos e campanhas financeiras, integração entre os representantes de clãs, e demais temas pertinentes no período. 
-Art.52 - A ERP atuante deverá explanar o andamento de suas atividades no trimestre, o andamento das organizações de eventos do ano, o andamento de seus projetos e propostas vigentes. 
-Art.53 - A ERP atuante deverá fomentar a criação de debates, equipes de interesse e soluções para os problemas vigentes no trimestre. 
-Art.54 - Presidentes de COMAD e membros da ERP têm direito a participação, voz e voto durante a reunião. 
-Art.55 - Membros natos têm direito de participação, direito a voz e voto nas reuniões. Inciso 1 - São membros natos pioneiros que conquistaram a Insígnia de Baden-Powell. 
-Art.56 - Membros de organizações de eventos regionais têm direito a um representante nas reuniões, no ano de seu evento, com direito a voz e voto. 
-Art.57 - Membros representantes de eventos regionais deverão fazer uma breve apresentação das condições, infraestrutura, logísticas do evento, e demais questões pertinentes na reunião do trimestre que antecede o seu evento. 
+Art. 52 - A ERP atuante deverá explanar o andamento de suas atividades no trimestre, o andamento das organizações de eventos do ano, o andamento de seus projetos e propostas vigentes. 
+Art. 53 - A ERP atuante deverá fomentar a criação de debates, equipes de interesse e soluções para os problemas vigentes no trimestre. 
+Art. 54 - Presidentes de COMAD e membros da ERP têm direito a participação, voz e voto durante a reunião. 
+Art. 55 - Membros natos têm direito de participação, direito a voz e voto nas reuniões. Inciso 1 - São membros natos pioneiros que conquistaram a Insígnia de Baden-Powell. 
+Art. 56 - Membros de organizações de eventos regionais têm direito a um representante nas reuniões, no ano de seu evento, com direito a voz e voto. 
+Art. 57 - Membros representantes de eventos regionais deverão fazer uma breve apresentação das condições, infraestrutura, logísticas do evento, e demais questões pertinentes na reunião do trimestre que antecede o seu evento. 
 Art.58 - Os representantes das organizações dos eventos regionais deverão apresentar durante a reunião de Presidentes de COMAD com a ERP subsequente ao seu evento um relatório com as dificuldades e problemáticas que tiveram durante a organização e realização de seus eventos, apresentando feedbacks, cotações de valores, planos de atividades, interações com a comunidade, interações com empresas, forma de arrecadação de patrocínios, e interações com Diretoria Regional, Equipe Regional do Ramo e Equipe Regional Pioneira. 
 Inciso 1 - Caso o evento do representante ocorra no último trimestre do ano, sua participação durante a próxima reunião deverá ser exclusivamente para apresentação, não tendo direito a voz e voto. 
 Art.59 - A reunião que ocorre no trimestre do debate preliminar obrigatoriamente deverá ocorrer de forma híbrida, tendo a possibilidade dos Presidentes se encontrarem presencialmente com a ERP durante a reunião. 
 Inciso 1 - Caso a reunião ocorra na mesma data do Debate Preliminar ela deverá ser posterior ou anterior ao Debate, não podendo ocorrer durante o evento. 
-Art.52 - Os trimestres do ano serão divididos em primeiro trimestre de janeiro a março, segundo trimestre de abril a junho, terceiro trimestre de julho a setembro, quarto trimestre de outubro a dezembro.
+Art. 52 - Os trimestres do ano serão divididos em primeiro trimestre de janeiro a março, segundo trimestre de abril a junho, terceiro trimestre de julho a setembro, quarto trimestre de outubro a dezembro.
 § 1º - A primeira reunião do ano deverá ocorrer no mês de janeiro. 
 § 2º - A última reunião do ano deverá ocorrer na primeira quinzena do mês de dezembro. 
-Art.53 A data da reunião e suas modalidades de participação deverão ser escolhidas e divulgadas antes do trimestre se iniciar, pela ERP. 
-Art.54 - Reuniões extraordinárias deverão ser divulgadas com ao menos 15 (quinze) dias de antecedência a sua realização. 
+Art. 53 - A data da reunião e suas modalidades de participação deverão ser escolhidas e divulgadas antes do trimestre se iniciar, pela ERP. 
+Art. 54 - Reuniões extraordinárias deverão ser divulgadas com ao menos 15 (quinze) dias de antecedência a sua realização. 
 CAPÍTULO VII - DAS OUTRAS ATIVIDADES REGIONAIS PIONEIRAS 
 Art. 63 - Poderão ocorrer outras atividades organizadas pela Equipe Regional Pioneira, tais como, passeios e acampamentos, excursões, entre outros, ficando a definição de programa, locais, duração e meios de transporte a cargo da organização. 
 TÍTULO III - DAS MEDIDAS DISCIPLINARES 
