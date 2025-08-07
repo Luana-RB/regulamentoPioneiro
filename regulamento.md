@@ -43,7 +43,7 @@ Art. 7° - A eleição da Equipe Regional Pioneira será realizada durante o Fó
 Art. 8° - Para ser candidato(a) à Equipe Regional Pioneira, o(a) pioneiro(a) deverá comprovar sua Promessa Escoteira no momento da candidatura. 
 Art. 9° - As chapas devem ser compostas, preferencialmente, por pelo menos dois integrantes que estejam inscritos em UELs de fora da Região Metropolitana de Porto Alegre. 
 Art. 10 - Todas as chapas que forem se candidatar à ERP devem ter pelo menos um suplente na sua composição. 
-Art. 11 - Membros eleitos para a Equipe Regional Pioneira poderão exercer seu mandato até completarem 21 anos. Se atingirem essa idade antes da troca para a próxima gestão da ERP, estarão automaticamente desligados da sua função na equipe, e devem ser substituídos pelo seu suplente. 
+Art. 11 - Membros eleitos para a Equipe Regional Pioneira poderão exercer seu mandato até completarem 22 anos. Se atingirem essa idade antes da troca para a próxima gestão da ERP, estarão automaticamente desligados da sua função na equipe, e devem ser substituídos pelo seu suplente. 
 Art. 12 - É vedada a eleição de membros e chapas da Equipe Regional Pioneira por mais de um (01) mandato. 
 Art. 13 - Fica a cargo da(s) chapa(s) o envio de seu plano de trabalho à ERP atual, e é encargo da ERP atuante encaminhá-la para os demais clãs do estado anteriormente ao Fórum Regional Pioneiro, conforme previsto no Artigo 22 deste Regulamento. 
 Art. 14 - A inscrição da(s) chapa(s) deverá realizar-se até o debate preliminar, mediante entrega da nominata e das propostas de trabalho à atual Equipe Regional Pioneira. 
@@ -52,17 +52,17 @@ Art. 15 - Em caso de duas chapas, será eleita a que obtiver a maioria simples d
 Parágrafo único - A escolha da Equipe Regional Pioneira será por voto fechado. 
 Seção III – Da Composição da Equipe Regional Pioneira 
 Art. 16 - A Equipe Regional Pioneira é composta pelos seguintes membros: 
-a) Coordenador Geral; 
-b) Coordenador de Comunicação;
-c) Coordenador de Interiorização; 
-d) Coordenador Administrativo; 
-e) Coordenador Financeiro; 
+a) Coordenador(a) Geral; 
+b) Coordenador(a) de Comunicação;
+c) Coordenador(a) de Interiorização; 
+d) Coordenador(a) Administrativo(a); 
+e) Coordenador(a) Financeiro(a); 
 f ) Coordenadores Suplentes. 
 Art. 17 - Competem aos membros da Equipe Regional Pioneira os seguintes encargos: 
 I - Coordenador(a) Geral: 
 a) Manter a disciplina e a lisura de todos os eventos regionais pioneiros; 
 b) Responder pelas decisões do Fórum Regional Pioneiro; 
-c) Manter informada a Diretoria Regional sobre as atividades do ramo; 
+c) Manter a Diretoria Regional informada sobre as atividades do ramo; 
 d) Convocar e presidir as reuniões, tanto ordinárias como extraordinárias, da Equipe Regional Pioneira, dando conhecimento à Região e aos Clãs as datas de suas realizações;
 e) Ocupar o cargo de presidente da Mesa Diretora do Fórum Regional Pioneiro.
 II - Coordenador(a) de Comunicação: 
@@ -73,11 +73,11 @@ III - Coordenador(a) de Interiorização:
 a) Estabelecer e manter o contato com os Clãs das UELs do Interior, fazendo com que as informações do Ramo cheguem ao conhecimento destes; 
 b) Levantar dados e manter o ramo atualizado quanto aos clãs do interior; 
 c) Integrar o interior com as UELs mais próximas da capital, unificando o ramo. 
-IV - Coordenador(a) Financeiro: 
+IV - Coordenador(a) Financeiro(a): 
 a) Coordenar e zelar pelas finanças que a Equipe Regional Pioneira possuir; 
 b) Manter o Livro Caixa atualizado com todas as informações sobre movimentações, mantendo-o íntegro e acessível a todos os envolvidos com o Ramo Pioneiro; 
 c) Zelar pelo Patrimônio da Equipe Regional Pioneira. 
-V - Coordenador(a) Administrativo: 
+V - Coordenador(a) Administrativo(a): 
 a) Ter o contato direto com o Escritório Regional; 
 b) Administrar o e-mail da Equipe Regional Pioneira, assim como manter atualizada a lista de contatos deste; 
 c) Fica responsável por secretariar as reuniões da Equipe Regional Pioneira, escrever as atas e manter em ordem todos os documentos do Ramo. 
@@ -97,10 +97,10 @@ Parágrafo único - As reuniões da Equipe Regional Pioneira podem ser abertas a
 TÍTULO II - DAS ATIVIDADES 
 CAPÍTULO I - DOS FÓRUNS REGIONAIS PIONEIROS 
 Seção I - Da Realização e da Duração 
-Art. 22 - Será realizado um (01) Fórum Ordinário por ano, entre os meses de julho e agosto, com duração mínima de um dia. Em caso de necessidade, poderão ocorrer Fóruns Extraordinários em qualquer período do ano. 
-§ 1° - O Fórum Regional Pioneiro Ordinário não poderá ser realizado na mesma data dos Mutirões Regionais Pioneiros e da Olimpíada Regional Pioneira. 
+Art. 22 - Será realizado um (01) Fórum Ordinário por ano, entre os meses de julho e agosto, com duração mínima de um dia. Em caso de necessidade, poderão ocorrer Fóruns Extraordinários em qualquer período do ano.
+§ 1° - O Fórum Regional Pioneiro Ordinário não poderá ser realizado na mesma data dos Mutirões Regionais Pioneiros ou da Olimpíada Regional Pioneira. 
 § 2° - Cada edição do Fórum será identificada pela numeração correspondente à sua Ata, passando a ser representada por algarismos romanos. 
-§ 3° - A Equipe Regional Pioneira deve divulgar aos pioneiros, no prazo de até dez dias antes do Fórum Regional Pioneiro, as propostas de alteração do Regulamento vigente e as autorizações da UEL para candidaturas a cargos e eventos regionais. 
+§ 3° - A Equipe Regional Pioneira deve divulgar aos pioneiros, no prazo de até dez (10) dias antes do Fórum Regional Pioneiro, as propostas de alteração do Regulamento vigente e as autorizações da UEL para candidaturas a cargos e eventos regionais. 
 Seção II – Dos Membros do Fórum 
 Art. 23 - São considerados membros do Fórum Regional Pioneiro: 
 a) Membros natos; 
@@ -135,9 +135,9 @@ d) Encaminhar as votações;
 e) Redigir e assinar a ata do Fórum;
 f) Divulgar a Ata, as conclusões do Fórum, bem como o Regulamento do Ramo Pioneiro modificado, quando houver, junto aos órgãos competentes do Escritório Regional no prazo máximo de até duas (02) semanas, a contar o encerramento do fórum. 
 Seção IV – Do encaminhamento dos Temas, dos Grupos de Debates e das Seções Plenárias 
-Art. 29 - As propostas de alterações do Regulamento do Ramo Pioneiro deverão ser enviadas à Equipe Regional Pioneira com no mínimo quatorze (14) dias de antecedência à realização do Fórum Regional Pioneiro. 
-Art. 30 - O tema a ser discutido no Fórum Regional será decidido no Fórum anterior. 
-Art. 31 - Os encaminhamentos de estudo e discussão de temas para o Fórum posterior serão agrupados por assuntos correlatos.
+Art. 29 - As propostas de alterações do Regulamento Regional do Ramo Pioneiro deverão ser enviadas à Equipe Regional Pioneira com no mínimo quatorze (14) dias de antecedência à realização do Fórum Regional Pioneiro.
+Art. 30 - Temas a serem discutidos no Fórum Regional serão decididos no Debate Preliminar anterior. 
+Art. 31 - Os encaminhamentos de estudo e discussão de temas para o Fórum serão agrupados por assuntos correlatos.
 Art. 32 - Conforme a necessidade, será competência da Plenária decidir se os temas apresentados serão discutidos em grupos de debate. 
 § 1º - Se a análise dos temas for feita em grupos de debates, os delegados e os membros natos do Fórum que irão compor o grupo serão reunidos pela Mesa Diretora, através de sorteio. 
 § 2º - Os grupos de debate apresentarão as conclusões em plenária através de um relator para tal fim designado, dentre os integrantes de cada grupo. 
@@ -184,7 +184,6 @@ b) Fomentar a criação de debates, equipes de interesse e soluções para os pr
 Art.49 - Na reunião, os membros representantes de eventos regionais deverão:
 a) Na reunião que antecede seu evento, apresentar as condições, infraestrutura, logísticas, e demais questões pertinentes ao evento;
 b) Na reunião posterior ao seu evento, apresentar um relatório com as dificuldades e problemáticas que tiveram durante a organização e realização do evento, apresentando feedbacks, cotações de valores e outros dados pertinentes.
-
 Parágrafo único - Caso o evento do representante ocorra no último trimestre do ano, sua participação durante a próxima reunião deverá ser exclusivamente para apresentação, não tendo direito a voz e voto. 
 Seção II - Duração 
 Art.50 - Deverá ocorrer uma vez por trimestre uma reunião, sendo 4 reuniões no ano, de forma híbrida ou online, entre a ERP e os Presidentes de COMAD dos clãs do estado. 
@@ -208,7 +207,6 @@ Art. 60 - Será de competência da organização dos eventos analisar e tomar as
 Parágrafo único - Em caso de descumprimento das regras do evento as demandas serão encaminhadas ao(à) Coordenador(a) Regional do Ramo Pioneiro, o qual tomará as medidas cabíveis. 
 Art. 61 - Em caso de descumprimento de regra por algum participante do evento, o caso deverá ser avaliado individualmente, e não todo o Clã. 
 CAPÍTULO VIII - DAS DISPOSIÇÕES GERAIS 
-Art. 62 - Nenhum jovem poderá participar de qualquer atividade regional sem a presença de um Mestre responsável. Caso não seja o mestre do seu clã, o jovem deverá apresentar a autorização da sua Diretoria indicando um adulto responsável. 
-Art. 63 - O presente Regulamento foi aprovado pelo(a) Coordenador(a) Regional, Equipe Regional Pioneira e Diretoria Regional, na cidade de Porto Alegre, no dia 02 de setembro de 2020, revogando os Regimentos anteriores e as disposições em contrário, entrando em vigor a partir de sua aprovação, ficando sujeito a modificações advindas de instâncias superiores. 
-Art. 64 - Este Regulamento não se sobrepõe às normas emanadas das Diretorias Regional e Nacional, dentre eles: Estatutos, P.O.R. e Resoluções em vigor, devendo o mesmo ser submetido à homologação da Direção Regional. 
-Art. 65 - Os casos omissos neste Regulamento e que não encontram solução no P.O.R., Estatuto Nacional e Normas Regionais serão resolvidas pela Equipe Regional Pioneira, exceto durante a realização do Fórum, quando a resolução será de competência da Plenária. 
+Art. 62 - O presente Regulamento foi aprovado pelo(a) Coordenador(a) Regional, Equipe Regional Pioneira e Diretoria Regional, na cidade de Porto Alegre, no dia 24 de agosto de 2025, revogando os Regimentos anteriores e as disposições em contrário, entrando em vigor a partir de sua aprovação, ficando sujeito a modificações advindas de instâncias superiores. 
+Art. 63 - Este Regulamento não se sobrepõe às normas emanadas das Diretorias Regional e Nacional, dentre eles: Estatutos, P.O.R. e Resoluções em vigor, devendo o mesmo ser submetido à homologação da Direção Regional. 
+Art. 64 - Os casos omissos neste Regulamento e que não encontram solução no P.O.R., Estatuto Nacional e Normas Regionais serão resolvidas pela Equipe Regional Pioneira, exceto durante a realização do Fórum, quando a resolução será de competência da Plenária. 
