@@ -570,14 +570,14 @@ _Adicione o título e link dos cartões relacionados às entregas do MR_
 ---
 
 ## Sumário
-- [Visão Geral](#visão-geral-conventional-commits)
+- [Visão Geral](#visão-geral-de-conventional-commits)
 - [Estrutura](#estrutura)
 - [Tipos de commit](#tipos-de-commit)
   - [Exemplos](#exemplos)
 
 ---
 
-## Visão Geral Conventional Commits
+## Visão Geral de Conventional Commits
 
 <font color="#00B377">**Commit semântico** (ou _conventional commit_)</font> é uma padronização de nomenclaturas de commits no projeto. Para isso, utiliza-se regras simples e claras.
 
