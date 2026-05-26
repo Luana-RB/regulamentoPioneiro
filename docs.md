@@ -502,10 +502,10 @@ Executado pela **CI automaticamente** após cada tag de produção.
 ---
 
 ## Sumário
-- [Configurações iniciais](#configuracoes-iniciais)
-- [Pontos de Atenção](#pontos-de-atencao)
-- [Descrição de MR](#descricao-de-mr)
-  - [Template de descrição](#template-de-descricao)
+- [Configurações iniciais](#configurações-iniciais)
+- [Pontos de Atenção](#pontos-de-atenção)
+- [Descrição de MR](#descrição-de-mr)
+  - [Template de descrição](#template-de-descrição)
 
 ---
 
@@ -570,7 +570,7 @@ _Adicione o título e link dos cartões relacionados às entregas do MR_
 ---
 
 ## Sumário
-- [Visão Geral](#visao-geral-conventional-commits)
+- [Visão Geral](#visão-geral-conventional-commits)
 - [Estrutura](#estrutura)
 - [Tipos de commit](#tipos-de-commit)
   - [Exemplos](#exemplos)
@@ -605,7 +605,7 @@ A primeira e principal descrição de um commit semântico refere-se ao seu <fon
 
 ---
 
-## Tipos
+## Tipos de commit
 
 Os principais tipos utilizados nos projetos da companhia são:
 
